@@ -24,7 +24,7 @@ I'm Mohan, a Mechanical Engineer with a passion for data science, machine learni
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/449ddf40-fee0-4956-a2a4-1d2e0a0b744c" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/449ddf40-fee0-4956-a2a4-1d2e0a0b744c" />
 
 💬 Let's Connect:
 
