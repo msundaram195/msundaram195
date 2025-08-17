@@ -25,5 +25,6 @@ I'm always up for a good chat! Feel free to reach out or connect with me:
 - 📧 Email: mohan.seng0519@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/rms1905
 
+[![yuenherny's GitHub stats](https://github-readme-stats-tan-phi.vercel.app/api?username=yuenherny&count_private=true&layout=compact&theme=gotham)](https://github.com/yuenherny/github-readme-stats)
 
 ✨ Motto: "Engineering + AI = Smarter Design."
