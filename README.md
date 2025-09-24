@@ -12,10 +12,6 @@ I'm Mohan, a Mechanical Engineer with a passion for data science, machine learni
 
 🚀 Interested in AI-driven Mechanical QC, Predictive Maintenance, and Generative Design
 
-🔥 Featured Projects:
-
-🏗 ----
-
 
 ### I Design in
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/79a89647-67b4-4eac-b0aa-6a9ce602b2f1" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/756a3b2e-dbee-4ce4-b0a2-df56d1e9216e" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/937f32df-78df-4f1e-8de7-1ebb4d113043" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/66360441-2844-47f2-a85a-7d0a996c7f77" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/91488b27-eb7b-446e-b91d-24ed944915ce" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/386dcf0f-fc5a-46b5-b838-535e8cd14beb" />
