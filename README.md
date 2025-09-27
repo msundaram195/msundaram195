@@ -1,6 +1,6 @@
 # Hi There! 👋
 
-I'm Mohan, a Mechanical Engineer with a passion for data science, machine learning and all things tech. I'm thrilled by the power of data to drive innovation and make informed decisions. 
+Hi, I’m Mohan! I’m a Mechanical Engineer who’s passionate about data science, machine learning, and technology in general. I love discovering how data can spark innovation and help us make smarter, more informed decisions.
 
 🌍 Currently transitioning from Automotive Design → Data & AI in Mechanical Domain
 
