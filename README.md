@@ -4,7 +4,7 @@ Hi, I’m Mohan! I’m a Mechanical Engineer who’s passionate about data scien
 
 🌍 Currently transitioning from Automotive Design → Data & AI in Mechanical Domain
 
-🔬 10+ years experience in Automotive & Mechanical Design (CAD, GD&T, FEA basics)
+🔬 10+ years experience in Automotive & Mechanical Design (CAD, GD&T, FEA)
 
 💡 Building projects in Data Science, Machine Learning & Computer Vision for mechanical datasets
 
